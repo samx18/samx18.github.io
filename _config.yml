@@ -1,0 +1,16 @@
+name: "samx18.io"
+description: "Personal Site Sam Palani"
+
+#url: http://localhost:4000
+url: http://samx18.io
+#baseurl: http://localhost:4000
+
+#paginate: 10
+#paginate_path: "/blog/page:num/"
+
+# markdown: rdiscount
+# permalink: pretty
+# pygments: true
+markdown: redcarpet
+highlighter: pygments
+#encoding: utf-8

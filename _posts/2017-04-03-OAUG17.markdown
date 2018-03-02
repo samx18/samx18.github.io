@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Cloud Deployment and DevOps on Steroids"
+date:   2017-04-03	 11:03:13
+categories: talks
+---
+
+Talk from OAUG Collaborate 2016 Cloud Deployment and DevOps on Steroids [Slides](/assets/ID10066.pdf)

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Designing Big Data Analytics on the Cloud With Oracle Applications, Redshift & Tableau"
+date:   2016-04-10 11:03:13
+categories: talks
+---
+
+Talk from OAUG Collaborate 2016 Designing Big Data Analytics on the Cloud With Oracle Applications, Redshift & Tableau [Slides](/assets/ID10333.pdf)

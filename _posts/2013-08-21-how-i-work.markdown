@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "How I Work"
+date:   2013-08-21 21:03:13
+categories: blog
+---
+
+A few months ago I did my contribution to the as Lifehacker series on How I Work.
+
+> **Update 1**: I have changed a bit of how I manage my tasks and get things (that matter) done. I still use the Post-Its as a capture tool but I have started using a pocketmod more now. Specially since I have been traveling a lot more, a pocket-mod is just more convenient. Also I avoid scheduling tasks with a date unless absolutely required.  All those trivial tasks that just need to get done stays on my pocketmod till they get done. For more important long term projects I have started using a personal Kanban. 
+
+> **Update 2**: After more than 15 months of being laptop free, I had to give in and go for a MacBook Pro due thanks to all the travel and working out of odd locations.
+
+You can find the original post here:
+
+[http://samx18.kinja.com/how-i-work-1180366679](http://samx18.kinja.com/how-i-work-1180366679)
+
+**Location:** San Francisco Bay Area, US & Calgary, Canada
+
+**Current gig:** Director, Infrastructure & Cloud Solutions
+
+**Current mobile device:** iPhone 4s and iPad Fourth Gen
+
+**Current computer:** iMac 2010
+
+**One word that best describes how you work:** Focussed
+
+**What apps/software/tools can’t you live without?** Evernote is my central repository for all my notes and ideas. I am also a heavy dropbox user which allows me to keep all my files and documents in sync across all devices. The Things app to manage my projects and other tasks.aTask for text expansion and Alfred for my workflows. Also since I travel around a lot I depend heavily on the Google maps app for iOS.
+
+> Update 3: I have more recently started to use a combination of plain text and markdown to capture and store information
+
+**What’s your workspace like? **I prefer a clutter free workspace. It helps me stay focused and also boosts my creativity. At work its just the iMac and the wireless keyboard with lots of empty spaces which I fill up quickly when I am really engrossed in a project or a meeting.
+
+When I am on the move its an iPad resting on a Twelve South Compass stand and an Apple wireless keyboard. I also use this setup in my Kitchen for my morning distraction free writing. Its been almost a year since I gave up my laptop for a desktop and an iPad and I am loving it.
+
+**What’s your best time-saving trick?** Avoid multitasking. The fastest way to get something done for me is to stay focused on that activity, finish it and then move on to the next.
+
+**What’s your favorite to-do list manager?** I use a simple system that is based in GTD. My favorite capture tool: Post-It notes, I use a lot of these and process everything in in the Things App. I have the Things app on my Mac, iPad and my iPhone and everything is nicely synced-up. I also use a moleskine when I need to mind map or for creative designs. This again feeds into my Things App or Evernote after processing.
+
+**Besides your phone and computer, what gadget can’t you live without? **My Kindle. I do most of my electronic reading on e-ink. It is easy on my eyes, specially if you are reading for more than an hour at a stretch plus it has great battery life.
+
+**What everyday thing are you better at than anyone else?** I think I am good at breaking down a problem using lateral thinking. I may not be better than everyone else, but I am pretty good at it.
+
+**What are you currently reading?** Currently I am reading “How Children Succeed” by Paul Tough. I picked this up from Bill gates reading list. It is a must read for every parent, I wish I would have read this earlier.
+
+**What do you listen to while you work?** Silence.
+
+**Are you more of an introvert or an extrovert?** A bit of both depending on what I am doing. If its work I prefer being an introvert and outside work I am an extrovert.
+
+**What’s your sleep routine like?** I prefer to be in bed by 10:30 PM and be up by 5:30 AM. Though I am not always successful in sticking with that routine. I also prefer to wake up at least 60 minutes before everyone else and prepare myself for the day.
+
+**Fill in the blank: I’d love to see ______ answer these same questions**. Steve Jobs
+
+**What’s the best advice you’ve ever received?** Be polite and be fair. (From my wife <3)
+
+**Is there anything else you’d like to add?** Green Tea! Yes, I experiment with different varieties of green tea and my current favorite is the chai flavor with sweet spices. It simulates my grey cells when I need it the most.

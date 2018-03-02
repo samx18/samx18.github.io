@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "India Vs Pakistan World Cup 2015 : The Big Game Analytics"
+date:   2015-02-12 18:03:13
+categories: blog
+---
+
+If you follow Cricket in any form, you probably know that it does not get bigger than this — An India Vs Pakistan match, that too in a World Cup Tournament. Emotions run high both on and off the field, here however we will keep emotions aside and have a look at what the data has to offer.
+
+##Prologue
+
+###Data : 
+Data includes all One Day Internationals played from 1975, roughly over half a million batting, bowling and fielding records. Where ever possible the complete data set is used without any sampling.
+
+###Technology : 
+As usual I have kept all the collection, aggregation and clean-up in Python & standard UNIX scripts. My choice of storage — mongoDB. All analytics and visualizations are in Python & R.
+
+Let’s just dig in.
+
+##India Vs Pakistan Head-on ODIs
+The two teams don’t play each other that often, but when they do it’s everything but boring.
+
+![Head-on](/img/wc2015IP/plot_zoom_png.png)
+
+Pakistan has a clear edge on this one, but in recent times India has done well at good closing that gap. I have deliberately not subsetted World Cup matches between India & Pakistan as that is highly skewed with India winning all of them.
+
+##The Adelaide
+
+Now zooming into the matches played at the Adelaide based on the result and scores.
+
+![](/img/wc2015IP/plot_zoom_png-2.png)
+
+Australia has played and won the maximum matches here. No surprises here with Adelaide being their home ground.
+
+Coming to India Vs Pakistan, India has done reasonably well here having played and won more matches than Pakistan. They also have a higher scoring rate compared to Pakistan at Adelaide. So this one goes to India.
+
+##Batting First Vs Chasing
+
+![](/img/wc2015IP/plot_zoom_png-3.png)
+
+Interestingly teams batting first have won more matches than when compared with chasing scores. So an importnat toss to win? Maybe, but first lets dig more.
+
+However let’s also look at how the batsmen from both the teams perform batting first Vs chasing.
+
+![](/img/wc2015IP/plot_zoom_png-8.png)
+
+![](/img/wc2015IP/plot_zoom_png-11.png)
+
+Indian batsmen seem to perform better chasing scores,while Pakistan batsmen seem to do well batting first. However the median score of the Pakistan batsmen is considerably lower when they bat first. Pakistan just might want to chase at a set total if they win the toss.
+
+##India Pakistan ODI Scores at Adelaide
+
+Let’s look at how these two teams perform at Adelaide against the average.
+
+![](/img/wc2015IP/plot_zoom_png-4.png)
+
+If you thought the two teams were inconsistent, the above proves that to an extent. However both the teams have been over the average score at Adelaide (around 220) most of the times. As far as edging out each other, they are pretty much even.
+
+##India Pakistan ODI Results At Adelaide
+Now looking at the India Pakistan match outcomes at Adelaide against all the team.
+
+![](/img/wc2015IP/plot_zoom_png-5.png)
+
+India has the edge here having won 7 of their matches as opposed to Pakistan who have won 5. Both the teams have played against each other here once before, a contest that India won. So the edge on this one goes to India.
+
+##The Scoring Batsmen
+
+Now let’s go over the runs the batsmen from both the teams have scored during the current season. The current season here is the last 12 months.
+
+![](/img/wc2015IP/plot_zoom_png-18.png)
+
+![](/img/wc2015IP/plot_zoom_png-17.png)
+
+India is known for its strong batting line-up, so no surprises here that their batsmen have accumulated more runs over the last season compared to Pakistan. The top run getter for India — Rahane and the Ahmed Shehzad leading the race for Pakistan. The worry for Pakistan is variance between him and the others is high. In other words most of the Pakistan batsmen have not been among the runs during the current season. An Indian edge? perhaps.
+
+##The Top Order
+Looking at how consistent the top order has been in the current season
+
+![](/img/wc2015IP/plot_zoom_png-7.png)
+
+![](/img/wc2015IP/plot_zoom_png-10.png)
+
+The top order for both the teams have been fairly inconsistent for the current season, however unfortunately for India their batsmen have been out of form leading up the big game. A slight edge to Pakistan specially after their sucessful chasedown of England during the warm-up game.
+
+##The Bowlers
+
+![](/img/wc2015IP/plot_zoom_png-12.png)
+
+![](/img/wc2015IP/plot_zoom_png-13.png)
+
+Pakistan is known to be a better bowling side, but interestingly the data from the current season puts both the teams at level if you just go by the economy rate with Saeed Ajmal the top bowler Pakistan just doing marginally well compared to STR Binny who was India’s most economical bowler in the current season.
+
+Wickets stop scoring too, so let’s take a look at the leading wicket takers from both the teams.
+
+![](/img/wc2015IP/plot_zoom_png-14.png)
+
+![](/img/wc2015IP/plot_zoom_png-15.png)
+
+M Shami being the leading wicket taker for India, followed by R Ashwin and R Jadeja. For Pakistan suprisingly Afridi was the leading wicket taker for the current season.
+
+##Summary
+
+If you look at the numbers alone then you would be tempted to give India the advantage, but an important factor here is that Pakistan did not play as many ODIs as India did during the current season. So if I were to place my money , I would say it’s pretty much an even contest and anything but boring or one sided with probably a very slight edge to India.

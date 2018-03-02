@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Why Project Estimates Fail"
+date:   2010-11-04 21:03:13
+categories: blog
+---
+![Dilbert](/img/Dilbert-Estimation.jpg)
+
+Enjoyed the Dilbert? OK,Many of you might recognize the above situation. One of items on the list of things that Project, Program or Portfolio Managers dread the most are, Project Estimations.(Yes, this list also has scope creep, random changes request and zombies too among other things.). Of-course, it need not be that way. Projects are about estimates, estimating the cost, estimates on schedule or estimating the resources required. Estimation has also been one of the sources of conflict, one one hand the teams have a tendency of padding up estimates in order to give themselves more time, and on the other it is the management and the sponsors who sometimes tend to give unrealistic or overaggressive estimates. A project manager will need to manage this conflict so that projects can be more predictable and less chaotic. Irrespective  of the fact that your project follows a Waterfall, PRINCE2, Agile or anything hybrid in between, the accuracy of your estimates are critical. Accurate estimates are not only the backbone of other planning activities, they are also a factor in determining the feasibility of a project or an initiative before it is undertaken. And yet, often estimates are far from accurate and often fail.Why? lets looks at some top reasons why project estimates fail.
+
+**When Estimates Become Commitments or Constraints** - Whether you are doing a single point estimate or a range bound estimate, it is important to note that they are still just estimates.They should not be confused with commitments or constraints and they should be used keeping that in mind. Unless this distinction is clear, the results will disastrous. This however, does not mean that estimators throw caution to the wind and produce completely unreliable estimates.
+When Estimates Are Padded – (refer again the Dilbert strip) Estimates have a tendency to be padded and buffered, while there may be cases where such a buffering might be legitimate like schedule buffers created for change requests, as a rule of thumb padding should be avoided as it creates distrust and the overall reliability of the estimates is compromised. Padding and buffering of estimates are contagious, once padding creeps in, it is a pain to weed it out.
+
+**When Estimates Are Not Revisited** – Estimates like risks need to be revisited and re-validated as the project or initiatives progresses. The estimate that were done during the initiation, may no longer be current, like a shortage of programming skill might have pushed up the resource rates and mostly would have thrown your estimation off track. Estimates might also have to be revisited as part of the change management process, thus it is essential to carry out a sanity check of your estimates appropriately.
+
+**When Estimates Are Taken At Their Face Value** – Sometimes teams are either over confident or over pessimistic with their estimates. An experienced project manager will validate and reconcile these estimates before using them as a source for planning or any other decision making. Brining in a subject matter expert or referring to historical data are options that can be considered.
+
+**When Task Dependencies Are Ignored** – This is particularly true in case of schedule estimates. Dependent tasks need to be examined carefully before providing a schedule estimate. If it take one developer to complete a tasks in 20 days it does not necessary mean that 20 resources can do the same task in one day. If you have considered fast tracking or crashing while estimating, they need to be validated with any dependencies that may exist.
+
+**When Estimates Are Not Communicated** – Like with other project documents and deliverable, estimates also need to be communicated. An estimate without the buy-in from the respective stakeholders is worthless. Also unless estimates are communicated, there is a strong likely hood that any risks associated with the estimates will also go unnoticed.
+
+**When It Is Just a Guesstimate** – Estimates that are not based on historical project data, industry standards or any other generally accepted rule of thumb is not an estimate, it is just a guess. Relying on a guesstimate for your planning and decision making is of-course, a sure shot way to kill the project.
+
+**When You Forget The Math** – No matter how lean or agile your management methodology is, when it boils down to the accuracy of your estimates, a little number crunching can go a long way in increasing the reliability and accuracy of your estimates. For instance when you do not have similar or reusable components to base your estimates, a simple PERT formula can help out in arriving at a more reasonable number (Mean = (least+4* Most likely +Most)/6). If you have much more at stake and need more accuracy you can use the COCOMO algorithm.
+
+**When Estimates Are Done In Silos** – Last but not the least, estimation is not a single personal responsibility, though a single may be responsible for consolidating and communicating the estimates. A project manager or any other person single should not be doing  estimation for the entire project alone. Estimation is about getting consensus. The more involved the team is in gathering the estimates, the better are the chances of your estimates being accurate. Silo estimates neither have the accuracy nor the team buy-in, they are just another recipe for project disaster.
+
+Have your own tips on project estimation or reasons on why estimates fail? Drop in a comment.

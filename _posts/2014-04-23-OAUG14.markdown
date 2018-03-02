@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Deploying High Availability and Business Resilient R12 Applications over the Cloud"
+date:   2014-04-23 11:03:13
+categories: talks
+---
+
+Talk from OAUG Collaborate 2014 Deploying High Availability and Business Resilient R12 Applications over the Cloud [Slides](/assets/ID13773.pdf)
