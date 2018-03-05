@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "#Linux25 - 25 years on, Linux still getting all the ❤"
+date:   2016-08-24 09:03:13
+categories: blog
+---
+My first Linux install was in 1998. It was a SUSE(update: I may have got the distribution name wrong, it was some kind of KDE based distro) distribution, from a CD that came free with a monthly tech magazine subscription CHIP. The installation itself was a dual boot on Windows 95 machine with 64 MB RAM. The outcome, disastrous! Nothing worked out of the box. I lost mouse control, audio control, the display seemed weird and the distribution had no drivers for my dial up modem. With absolutely no access to the internet, I was kind of in a mess. Coming from a closed windows world, where almost everything worked as “plug and play”, this whole idea of this new operating system that seemed to have an outdated GUI (imagine windows 95 in 1998, it was still the rock star of GUIs) and nothing apparently working seemed quite pointless. I was at a point where I could confidently declare “Linux Sucks!”
+
+With nothing better to do, I started playing around in the terminal. During that time, I was learning C programming as part of my academic curriculum. It surprised me how easily, this pointless, ugly looking OS was able compile C code, just like that out of the box and much faster than windows. As I poked around more, I was surprised at how much I tinker with the core configurations. I mean what OS developer would give the ‘user’ the ability to screw up their root filesystem? , which by the way I did end up doing a couple of time. Even early on Linux seemed to me the equivalent of a light saber, the weapon of choice of a Jedi. So I kept at it until I could fix most of the things (which often meant me frustratingly have to switch and boot up Windows) and get the Linux hooked up to the internet and that opened up the Pandora’s box for me!
+
+Since then, I have always had some kind of a Linux running, for work and for play. At some point I even made my own Linux distribution, which was completely pointless, but heck, it was cool. I mean what can be cooler than having your very own customized OS! Both Linux and myself have come a long way since then.
+
+![linux desktop](/img/desktop.png)
+
+25 years on, Linux is still getting all my love, as well as new found love from the likes of Microsoft. While a section may feel that Linux has a future which is limited to servers, there will always be growing bunch of us, who will continue to bring it to our laptops & desktops, endlessly and obsessively customize and tweak it, no matter how pointless it gets. Why? because we refused to get limited by what our OS can or cannot do, we refuse to be told by what we can or cannot install!
+
+Thank you Linus Torvalds + The University of Helsinki for bringing us the Linux or if you prefer to call it [GNU/Linux](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy).
