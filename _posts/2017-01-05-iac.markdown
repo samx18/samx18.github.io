@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "The Future Of Infrastructure, As Code"
+date:   2017-01-05 09:03:13
+categories: blog
+---
+
+Infrastructure as Code (IaC) is the process of managing and provisioning computing infrastructure (processes, bare-metal servers, virtual servers, etc.) and their configuration through machine-processable definition files, rather than physical hardware configuration or the use of interactive configuration tools.
+
+## *What is it all about?*
+
+IaC is about rethinking the way we architect, provision and manage our infrastructure resources. The idea is to break infrastructure down into modular services, and tie them together in a way that can be versioned and deployed just as code.
+
+As an example below is a typical example CloudFormation (CloudFormation is a AWS tool that helps you to template your cloud resources in a JSON document) template that provisions an instance within an existing network.
+
+![Cloudformation Template](/img/iac1.jpeg)
+
+IaC simplifies the application deployment process and eliminates manual work. Though I won’t go into why DevOps is so critical for the future of IT, I would however mention that IaC is an essential ingredient to making DevOps work and drive a sense of collective ownership among teams.
+
+## *So Why Now ?*
+
+The advocacy for IaC has been around from some time now, but with cloud adoption (more specifically with IaaS and PaaS) at a all time high now, we are looking at at more efficient ways of optimizing the infrastructure provisioning process. The cloud makes it easy to deploy and scale infrastructure quickly and in an on demand manner, IaC ensures this deployment and scaling happens in a standardized manner which is also easy to track via versioning. That and the push for continuous integration via DevOps — The paradigm shift that gets operations and development involved and accountable in designing and provisioning compute resources, drives in a case for IaC. In addition, IaC directly helps in cost reduction by automation, risk reduction by reducing the chances of errors, as well as speed by reducing the deployment times.
+
+## *Wait, how is this different (from what is already there)?*
+
+Another question that comes up is how IaC is different from virtual machines (VMware) and container services like Docker. While at some level they might seem to be related, like both provide automation and efficiency of resource provisioning, they both solve two very different problems. While virtualization and containers provide abstraction, IaC is about tracking,versioning and standardization for provisioning and managing infrastructure resources.
+
+## *But what about the tools?*
+
+IaC approach is not something entirely new, there have been tools that achieve this through either scripts or declarative definitions, rather than manual processes, but recent tools are now focused on the declarative approaches. At the core of IaC is also the principle of not to reinvent the wheel.
+
+There are tools from Chef, AWS Cloudformation and Puppet to name a few that help implement IaC. In principle they all do the same two main things:
+
+A language to template your infrastructure
+The ability to version and provision (push or pull) updates to the infrastructure.
+A feature of these tools is their ability to integrate with other tools as well as among themselves. In addition, collaboration is another essential element for IaC tools. Finally , no matter what tool you choose the key is its ability to support the above features.
+
+## *So is it all smooth sailing?*
+
+Hardly so. Going back to our CloudFormation example. While a few simple lines of JSON is probably trivial, describing your whole infrastructure stack manually from scratch in JSON code can easily start to become quite a challenge. Imagine how a template for something closer to real life, something like below look like.
+
+![Wordpress](/img/iac2.png)
+
+That’s probably thousands of line of JSON code from scratch!
+
+It’s not just the writing part, JSON validation is another challenge. Errors are not always easy to catch and it’s quite easy for something unintended to slip in.
+
+There are of course tools like the Cloud Template Designer from AWS and open source tools like the Troposphere Python package that generate valid templates for you, that ecosystem is still raw. However I have no doubts that these will grow and mature fast.
+
+## *That’s all fine, but what is the future for IaC?*
+
+I believe IaC is the future of provisioning and managing computing resources. While it does come with its own set of implementation challenges, the benefits it delivers far out weigh the challenges it currently faces.
+
+As tools and the frameworks associated with IaC mature, it will become the default standard to deploy and manage infrastructure. Also as organizations and teams continue to DevOps advocacy, IaC will be key ingredient in making that happen.
