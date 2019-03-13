@@ -4,7 +4,7 @@ title:  "Think Like a Kid 15 Minutes Everyday"
 date:   2014-01-30 09:03:13
 categories: blog
 ---
-![Dilbert](/img/thinkAna.jpg)
+![Think](/img/thinkAna.jpg)
 
 At noon today, I took a break to spend a couple of hours at my daughter’s school to attend an open house Science fair. My expectations, to be absolutely honest were not very high. We ( me & my wife) wanted to be there mainly to encourage the kids including of course my daughter. After all these little kids did work really hard over the last few months, coming up with project ideas, collecting samples, conducting their own little experiments, meticulously recording their observations and making one of the coolest looking charts and PPTs that I had ever seen. At most we expected a few electricity generating potato heads and maybe a couple of solar powered bulbs or water heaters (Don’t get me wrong, those are simple but really effective ways to learn some complex scientific concepts)
 
